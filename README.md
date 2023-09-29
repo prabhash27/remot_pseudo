@@ -1,10 +1,8 @@
 # This is new Psudeo File
 git init
 <br>
-
 git add README.md
 <br>
-
 git commit -m "first commit"
 <br>
 git branch -M main
